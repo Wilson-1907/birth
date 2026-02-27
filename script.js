@@ -5,9 +5,28 @@ const STORAGE_KEY = "birthday_site_v1";
 
 const defaultState = {
   name: "Ivy Wambui Mbote",
-  from: "From Wilson, your secret admirer",
+  from: "From Wilson",
+  to: "The missing Puzzle"
   message:
-    "Happy 19th birthday, Ivy! May this new chapter be full of joy, growth, and unforgettable memories.",
+    "Something beautiful is approaching… 🌙
+
+Each second that passes isn’t just time moving.
+It’s a quiet reminder that the world is getting ready to celebrate someone rare.
+
+You.
+
+The girl who turns simple sketches into art.
+The one who dances like rhythm chose her first.
+The one who disappears into novels and makes stories feel real.
+
+The countdown isn’t just for a birthday.
+It’s for the day the moon decided to show up on earth in human form.
+
+Stay patient.
+Stay curious.
+Your day is almost here.
+
+And trust me… it’s worth the wait. ✨",
   // YYYY-MM-DD; Ivy's birthday (you can still change this in Settings)
   date: "2026-03-13",
   wishes: [],
