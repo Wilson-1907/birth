@@ -6,9 +6,8 @@ const STORAGE_KEY = "birthday_site_v1";
 const defaultState = {
   name: "Ivy Wambui Mbote",
   from: "From Wilson",
-  to: "The missing Puzzle",
-  message:
-    "Something beautiful is approaching… 🌙
+  to: "The Missing Puzzle",
+  message: `Something beautiful is approaching… 🌙
 
 Each second that passes isn’t just time moving.
 It’s a quiet reminder that the world is getting ready to celebrate someone rare.
@@ -26,7 +25,10 @@ Stay patient.
 Stay curious.
 Your day is almost here.
 
-And trust me… it’s worth the wait. ✨'",
+And trust me… it’s worth the wait. ✨`,
+  date: "2026-03-13",
+  wishes: [],
+};
   // YYYY-MM-DD; Ivy's birthday (you can still change this in Settings)
   date: "2026-03-13",
   wishes: [],
