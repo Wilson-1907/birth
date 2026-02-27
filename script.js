@@ -26,13 +26,13 @@ Stay curious.
 Your day is almost here.
 
 And trust me… it’s worth the wait. ✨`,
-  date: "2026-03-13",
-  wishes: [],
-};
+
   // YYYY-MM-DD; Ivy's birthday (you can still change this in Settings)
   date: "2026-03-13",
+
   wishes: [],
 };
+
 
 function pad2(n) {
   return String(n).padStart(2, "0");
